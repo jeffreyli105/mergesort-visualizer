@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Mergesort Visualizer
+
+This project is a visual representation of the Merge Sort algorithm, designed to help users understand how merge sort works step-by-step with real-time animations. The visualization dynamically renders an array of bars that represent the elements being sorted, giving users a clear view of how the algorithm divides and merges the array.
+
+# Features
+- Dynamic Array Rendering: Visualizes the merge sort algorithm with animated bars representing elements of the array.
+- Two Interactive Buttons:
+  - Generate New Array: Generates a new random array of integers.
+  - Merge Sort: Starts the merge sort algorithm and visualizes its sorting process in real-time.
+- Smooth Animations: Uses React state and lifecycle methods to smoothly animate the sorting process.
+
+# Technologies Used
+- React: Used for rendering the UI and managing state during the animation.
+- JavaScript: Handles the sorting logic and array manipulation.
+- CSS: Styles the UI components for a clean and interactive user experience.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
