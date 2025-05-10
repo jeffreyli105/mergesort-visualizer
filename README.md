@@ -25,7 +25,7 @@ JavaScript: Handles the sorting logic and array manipulation.
 CSS: Styles the UI components for a clean and interactive user experience.
 
 How to Run:
-Clone the repository: git clone https://github.com/jeffreyli105/merge-sort-visualizer.git
+Clone the repository: git clone https://github.com/jeffreyli105/mergesort-visualizer.git
 Navigate to the project directory: cd merge-sort-visualizer
 Install dependencies: npm install
 Start the development server: npm start
